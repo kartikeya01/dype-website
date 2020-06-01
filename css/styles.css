@@ -761,7 +761,7 @@ input[type='checkbox'] {
 /*    04. Header     */
 /*********************/
 .header {
-	background: linear-gradient(to bottom right, rgba(72, 72, 212, 0), rgba(241, 104, 104, 0)), url('../images/2.jpg') center center no-repeat;
+	background: linear-gradient(to bottom right, rgba(72, 72, 212, 0), rgba(241, 104, 104, 0)), url('../images/2-compressed.jpg') center center no-repeat;
 	background-size: cover;
 }
 
@@ -1467,7 +1467,7 @@ a.back-to-top {
 	width: 2.625rem;
 	height: 2.625rem;
 	border-radius: 1.875rem;
-	background: #6CC2B8 url("../images/up-arrow.png") no-repeat center 47%;
+	background: #6CC2B8 url("../images/up_arrow-compressed.jpg") no-repeat center 47%;
 	background-size: 1.125rem 1.125rem;
 	text-indent: -9999px;
 }
